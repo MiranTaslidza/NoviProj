@@ -1,2 +1,0 @@
-# NoviProj
-novi
